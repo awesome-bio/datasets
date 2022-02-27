@@ -14,13 +14,6 @@ Therapeutically Applicable Research to Generate Effective Therapies (TARGET).
 
 International Cancer Genome Consortium (ICGC)",https://docs.gdc.cancer.gov/Data_Dictionary/viewer/
 Genomic Data Commons (GDC),Therapeutically Applicable Research to Generate Effective Treatments (TARGET),National Institutes of Health (NIH),https://portal.gdc.cancer.gov/,,,,,,
-Genomic Data Commons (GDC),,,https://portal.gdc.cancer.gov/,,,,,,
-Genomic Data Commons (GDC),,,https://portal.gdc.cancer.gov/,,,,,,
-Genomic Data Commons (GDC),,,https://portal.gdc.cancer.gov/,,,,,,
-Genomic Data Commons (GDC),,,https://portal.gdc.cancer.gov/,,,,,,
-Genomic Data Commons (GDC),,,https://portal.gdc.cancer.gov/,,,,,,
-Genomic Data Commons (GDC),,,https://portal.gdc.cancer.gov/,,,,,,
-Genomic Data Commons (GDC),,,https://portal.gdc.cancer.gov/,,,,,,
 ,UniProt,,,https://www.uniprot.org/help/about,"The Universal Protein Resource (UniProt) is a comprehensive resource for protein sequence and annotation data. The UniProt databases are the UniProt Knowledgebase (UniProtKB), the UniProt Reference Clusters (UniRef), and the UniProt Archive (UniParc). The UniProt consortium and host institutions EMBL-EBI, SIB and PIR are committed to the long-term preservation of the UniProt databases.","supports export in:
 FASTA,
 TSV,
@@ -69,7 +62,6 @@ Genome-wide Screen Data:
 has API (but it's not clear if it's suitable to download all data)",2 releases per year in files,,https://www.nlm.nih.gov/research/umls/index.html
 ,Open FDA,,,https://open.fda.gov/apis/drug/drugsfda/,"openFDA is the first innovation created by Taha Kass-Hout, MD, MS, upon joining FDA as the first Chief Health Information Officer in March 2013. The goal of the project is to create easy access to public data, to create a new level of openness and accountability, to ensure the privacy and security of public FDA data, and ultimately to educate the public and save lives. The concept was to index high-value, high priority and scalable public-access data, format and document that data in developer and consumer-friendly standards, and make that data available via a public-access portal that enables developers to quickly and easily use it in applications. Dr. Kass-Hout launched the project by obtaining a Presidential Innovation Fellow to focus on policy and programmatic issues in July 2013. The public cloud environment was determined in September 2013, and Dr. Kass-Hout's team solicited agency and user input into policies, first priority datasets, and desirable technical characteristics of openFDA. All the project milestones were met despite the government shutdown.",JSON,API,,https://open.fda.gov/data/datadictionary#
 ,ClinicalTrials.gov,,,ClinicalTrials.gov,ClinicalTrials.gov is a database of privately and publicly funded clinical studies conducted around the world. ,XML,API or files,,https://clinicaltrials.gov/ct2/html/images/info/public.xsd
-,,,,,,,,,
 ,Ensembl,,,https://grch37.ensembl.org/index.html,,,,,
 ,Ensembl Expression Atlas,,,https://www.ebi.ac.uk/gxa/home,,,,Need to specify relation to Ensembl - have not investigated,
 ,TIMER (Tumor Immune Estimation Resource),,,https://cistrome.shinyapps.io/timer/_w_5f3c9050/#tab-1057-6,,,,This is a web resource - backing data unclear?,
